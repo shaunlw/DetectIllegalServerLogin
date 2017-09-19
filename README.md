@@ -1,4 +1,9 @@
-hallenge Summary
+To run the program type in commandline : sh run.sh
+
+--------------------------------------------------
+This program is a respond to the coding challenge issued by Data Insight:https://github.com/InsightDataScience/fansite-analytics-challenge
+
+Summary
 
 Picture yourself as a backend engineer for a NASA fan website that generates a large amount of Internet traffic data. Your challenge is to perform basic analytics on the server log file, provide useful metrics, and implement basic security measures. 
 
