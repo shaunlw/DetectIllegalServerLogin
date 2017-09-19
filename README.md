@@ -1,7 +1,7 @@
 To run the program type in commandline : sh run.sh
 
 --------------------------------------------------
-This program is a respond to the coding challenge issued by Data Insight:https://github.com/InsightDataScience/fansite-analytics-challenge
+This program is a response to the coding challenge issued by Insight Data Science:https://github.com/InsightDataScience/fansite-analytics-challenge
 
 Summary
 
